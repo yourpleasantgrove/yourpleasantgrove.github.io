@@ -2,7 +2,7 @@
 title: Your Pleasant Grove
 email: cory@coryklein.com
 description: > # this means to ignore newlines until "baseurl:"
-    Pleasant Grove election information
+    Voter guide for Pleasant Grove elections
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourpleasantgrove.com" # the base hostname & protocol for your site
 twitter_username: yourpleasantgrove
