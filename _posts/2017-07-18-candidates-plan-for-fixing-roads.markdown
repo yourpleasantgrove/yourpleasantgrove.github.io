@@ -133,8 +133,6 @@ If you are aware of this candidate's position, please send a link to <cory@coryk
 
 ## Carrie Hammond
 
-![candidate-profile]({{ site.url }}/assets/dianna-anderson.jpg)
-
 If you are aware of this candidate's position, please send a link to <cory@coryklein.com> or via [Facebook Messenger](https://www.facebook.com/coryfklein).
 
 ### Candidate Website
