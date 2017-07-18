@@ -95,7 +95,23 @@ Click on a name to jump to their response.
 
 ![candidate-profile]({{ site.url }}/assets/jeffrey-butler.jpg)
 
-If you are aware of this candidate's position, please send a link to <cory@coryklein.com> or via [Facebook Messenger](https://www.facebook.com/coryfklein).
+> I drive a lot for my job. Some years I have put over 20,000 miles on my car traveling across the state from St. George to Logan, Tooele to Roosevelt and Pleasant Grove to Richfield. The past few years however, most of my time is spent driving in Salt Lake and Utah counties, so I have seen a lot of different roads and their maintenance or lack thereof. Where do the roads in Pleasant Grove rank based on my experience? Not at the top but definitely not at the bottom. 
+>
+> The reason I share this is obvious to anyone living in Pleasant Grove right now. What are your thoughts about the roads, what is my plan, where do I stand on Proposition 3? 
+>
+> Well, honeslty if I drive on the main roads between my home and Main Street or the freeway, the only road that has need for work is 1300 West (Proctor Lane) between State Street and Pleasant Grove Blvd. That could use some work and I'm sure those local residents would completely agree! But I do drive through most parts of the city and recognize there are many more roads that need be fixed than just Proctor Lane. 
+>
+> I have read Proposition 3 and I have looked at the city's 3 year plan for road fix and maintenance. The intent to prioritize road maintenance is understandable, but the details and the requirements posed in prop 3 do not promote the welfare of our community. The maintenance plan over three years is detailed and makes sense, but I would like to better understand the reasoning behind some of the proposed projects versus others that I know could use work. 
+>
+> Do we do a bond, do we have a road fee, do we increase property tax, do we allocate more to the roads, do we rely more on state funding, what about sales tax and business property tax revenue, does the city tighten the belt even more? 
+>
+> All these have been discussed and should continue to be vetted as quickly as possible with reasoned and respectful dialogue. Accusations and conjecture do not promote dialogue, in fact it drives away many who don't want to deal with the drama, which really is a tragedy, because we need the input from all citizens, we need understanding, we need to be on the same page; even if we may not completely agree! We are in this together!
+>
+> Now, what would I do? I would reassess the maintenance plan, making sure the public knows what the city sees as priorities and why those are priorities versus other roads to seek more input or understanding. I would propose that if there is a road fee or property tax increase that it is within reason and designate those funds specifically to the roads. I would encourage more positive response from the city workers to road issues so that the citizens realize they are being heard. I want to continue to encourage business growth so that sales and property tax revenue can be used to help improve the city, its infrastructure and relieve the family tax burden. 
+>
+> I welcome any thoughts and productive ideas!
+
+[Source: Facebook](https://www.facebook.com/JeffreyButlerforPGcitycouncil/posts/1717241921911633)
 
 ### Candidate Website
 
