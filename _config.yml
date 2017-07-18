@@ -1,1 +1,12 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Your Pleasant Grove
+email: cory@coryklein.com
+description: > # this means to ignore newlines until "baseurl:"
+    Pleasant Grove election information
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourpleasantgrove.com" # the base hostname & protocol for your site
+twitter_username: yourpleasantgrove
+github_username:  yourpleasantgrove
+
+# Build settings
+markdown: kramdown
