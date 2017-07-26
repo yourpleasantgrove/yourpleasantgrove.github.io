@@ -199,11 +199,25 @@ Click on a name to jump to their response.
 
 ![candidate-profile]({{ site.url }}/assets/dianna-anderson.jpg)
 
-If you are aware of this candidate's position, please send a link to <cory@coryklein.com> or via [Facebook Messenger](https://www.facebook.com/coryfklein).
+>I have been asked to explain my position on Road Funding. I am completely opposed to Prop 3. All of us that live and drive on our streets know that we have a road problem. About 3.5 years ago, we contracted out a Road Pavement Condition Study. What we learned is that out of our 110 miles of road, about 44 miles are Poor. This has been a problem that has been growing for 50+ years. I am not blaming any previous councils. We run lean. Period. We need about 4 million annually to get on top of the road situation. Right now we have about 1.5 million in our Road Budget. That is an INCREASE. This will be FOREVER needed funding. There is no quick fix. We have had a 10 year road plan….and then more detailed 3 year road plan. There has always been a plan. In the last 4 years, we have increased Road funding from our General Fund $425,000. I am in favor of a Road Fee on the utility bill. The benefit of putting it on the Utility Bill is that it legally then can only be used on Road Maintenance. As Pleasant Grove's revenue continues to increase, there will be more new money available each year and Council can lower the Road Fee as new money is earmarked for roads. At some point the State will have to earmark more money to each city from the State Gas/Fuel Tax. 
+>
+>We also studied other cities that have passed Road Fees. There has been different measurement tools and different amounts passed, but Provo, Mapleton, Vineyard and the most recent is Highland at $18.50 a month, have all started their road funding. The majority of the council was very close to passing a road fee, when the initiative (Prop 3) was placed on the Ballot.
+>
+>*I am in favor of a Road Fee ($8.00 or less a month) on the utility bill. 
+>
+>*As new Economic Development continues to increase our Revenues, that road fee can be reduced. 
+>
+>*As bonds retire, we can transfer those funds to the Roads with the approval of the citizens. 
+>
+>*I am NOT in favor of Prop 3 which will fund the roads at the expense of other desired services i.e. Pool, Parks, Library and Rec Programs. 
+>
+>*this is a fluid conversation. I am always open for comment or discussion. I am not open for attacks. If you have a suggestion or thought, can't wait to hear it.
+
+[Source: Facebook Page](https://www.facebook.com/DiannaPGcitycouncil/posts/1487322151327208)
 
 ### Candidate Website
 
-[Dianna Newton Anderson](https://www.facebook.com/dianna.n.andersen)
+[Dianna Newton Anderson](https://www.facebook.com/DiannaPGcitycouncil/)
 
 ## Carrie Hammond
 
