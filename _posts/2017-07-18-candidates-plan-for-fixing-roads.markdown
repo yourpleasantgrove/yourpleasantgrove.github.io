@@ -16,13 +16,13 @@ categories: git
 
 Click on a name to jump to their response.
 
-* [Eric Taylor](#Eric Taylor)
-* [Benjamin Stanley](#benjamin stanley)
-* [Todd Williams](#Todd Williams)
-* [Jeffrey Butler](#Jeffrey Butler)
-* [Dianna Newton Anderson](#Dianna Newton Anderson)
-* [Nathan Stoker](#Nathan Stoker)
-* [Blaine Thatcher](#Blaine Thatcher)
+* [Eric Taylor](#eric-taylor)
+* [Benjamin Stanley](#benjamin-stanley)
+* [Todd Williams](#todd-williams)
+* [Jeffrey Butler](#jeffrey-butler)
+* [Dianna Newton Anderson](#dianna-newton-anderson)
+* [Nathan Stoker](#nathan-stoker)
+* [Blaine Thatcher](#blaine-thatcher)
 * [Carrie Hammond](#carrie-hammond)
 
 ## Eric Taylor
