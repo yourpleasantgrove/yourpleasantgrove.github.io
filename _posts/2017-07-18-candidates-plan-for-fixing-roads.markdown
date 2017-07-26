@@ -20,9 +20,9 @@ Click on a name to jump to their response.
 * [Benjamin Stanley](#benjamin-stanley)
 * [Todd Williams](#todd-williams)
 * [Jeffrey Butler](#jeffrey-butler)
-* [Dianna Newton Anderson](#dianna-newton-anderson)
 * [Nathan Stoker](#nathan-stoker)
 * [Blaine Thatcher](#blaine-thatcher)
+* [Dianna Newton Anderson](#dianna-newton-anderson)
 * [Carrie Hammond](#carrie-hammond)
 
 ## Eric Taylor
@@ -167,6 +167,34 @@ Click on a name to jump to their response.
 
 [nate4pg](https://nate4pg.com/)
 
+## Blaine Thatcher
+
+![candidate-profile]({{ site.url }}/assets/blaine-thatcher.jpg)
+
+> My Approach to solving the roads crisis in Pleasant Grove
+>
+> I have been raising awareness about our roads/infrastructure problems for about 5 years. We have a significant problem that has gotten worse each year. The reason it has gotten worse is our elected representatives claim roads are their top priority, yet allocate virtually all new revenues to departments other than roads. Each year we have seen new revenue growth and virtually none of that new growth gets allocated to roads. Our council and administration have known for about 5 years that we need to be spending almost $4 million per year on roads maintenance to correct the problem and even then it will take 23 years to bring the overall level of our roads to an acceptable level.
+>
+> Since the council and administration became aware of this problem and its magnitude, they have talked about it, made unfulfilled campaign promises and are making more promises again this year. Each year the problem has gotten worse and the cost gets larger and larger while we wait.
+>
+> Had we begun 5 years ago allocating new revenues to the roads problem we would now be close to spending what we need annually to properly maintain our roads. Instead our council has chosen to increase spending in all departments other than roads. Now they tell us that if we fund roads we will have to close all kinds of services in Pleasant Grove. This of course is not true. To claim funding roads will reduce spending in other departments, confirms that our current spending has taken funding from roads/infrastructure and spent it in other departments of lower priority.
+>
+> My approach to fixing roads is as I articulated two years ago in our last city council election. In order to properly maintain our roads we need to correct the spending problem being perpetuated by our current administration and council. Without solving the spending problem, it doesn't matter how much business we bring in or how much new revenue we develop, if none of it gets allocated to roads our problems continue.
+>
+> We need to have an honest discussion about all of the services we are providing in Pleasant Grove and allocate spending to the highest priority services first, then it will be significantly easier to address all of our needs. If after a serious, deep and substantive discussion about all of our services, we still need additional revenues to provide the services we currently have, then and only then should we appeal to the citizens requesting a tax increase. At that point we need to be honest with the citizens about what we are asking them to fund.
+>
+> I maintain when we put our house in order, meaning take care of essential services first, then the wonderful citizens of Pleasant Grove will naturally support reasonable needs that are nonessential.
+>
+> This process will take time. If we can adequately fund roads maintenance, it will still take 23 years to bring the overall level of our roads to an acceptable level. It will take time to have a serious budget review. If Proposition 3 passes in November we will have 7 months to hold serious budget discussions in preparation for implementation of a prioritized budget. This seems hard to our current council because they have never prioritized like this before, but it can be done. In order to do this we need to elect leaders that believe it can be done and representation that is qualified to bring this about.
+>
+> This is why I am running for City Council. Pleasant Grove needs leadership. Leadership that believes we can fix our roads/infrastructure and maintain all our current city services. Choose qualified representation, elect Blaine Thatcher to City Council.
+
+[Source: Facebook Page](https://www.facebook.com/permalink.php?story_fbid=254307271725583&id=253799431776367)
+
+### Candidate Website
+
+[Vote Blaine Thatcher](https://www.facebook.com/Vote-Blaine-Thatcher-253799431776367/)
+
 ## Dianna Newton Anderson
 
 ![candidate-profile]({{ site.url }}/assets/dianna-anderson.jpg)
@@ -176,16 +204,6 @@ If you are aware of this candidate's position, please send a link to <cory@coryk
 ### Candidate Website
 
 [Dianna Newton Anderson](https://www.facebook.com/dianna.n.andersen)
-
-## Blaine Thatcher
-
-![candidate-profile]({{ site.url }}/assets/blaine-thatcher.jpg)
-
-If you are aware of this candidate's position, please send a link to <cory@coryklein.com> or via [Facebook Messenger](https://www.facebook.com/coryfklein).
-
-### Candidate Website
-
-[Blaine Thatcher](https://www.facebook.com/blaine.thatcher?hc_location=ufi)
 
 ## Carrie Hammond
 
